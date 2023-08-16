@@ -224,6 +224,16 @@ footer #copyright {
     text-align: right;
 }
 
+footer .contact-details {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+footer .contact-details i {
+    font-size: 16px;
+    /* margin-bottom: 15px; */
+}
+
 @media (max-width: 768px) {
     .navbar ul {
         display: none;

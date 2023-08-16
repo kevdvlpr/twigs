@@ -107,6 +107,27 @@
     padding-bottom: 4rem;
 }
 
+.ps-1 {
+    padding-right: 1rem;
+}
+
+.ps-2 {
+    padding-right: 1.5rem;
+}
+
+.ps-3 {
+    padding-right: 2rem;
+}
+
+.ps-4 {
+    padding-right: 3rem;
+}
+
+.ps-5 {
+    padding-right: 4rem;
+}
+
+
 /* margin */
 .mx-auto {
     margin: 0 auto;
